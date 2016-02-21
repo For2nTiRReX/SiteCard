@@ -1,0 +1,159 @@
+body {
+  color: #222;
+  letter-spacing: 1px;
+}
+
+section h3 {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 12px;
+  letter-spacing: 3px;
+  color: #888;
+  margin-top: 0;
+  margin-bottom: 35px;
+}
+
+section h4 {
+  color: #555;
+  letter-spacing: 3px;
+}
+
+.main_color_bg {
+  background-color: #222;
+}
+
+.social_wrapp ul li a {
+  color: #7300AB;
+}
+
+.bg_light {
+  background-color: #FAFAFA;
+}
+
+.bg_dark {
+  background-color: #222;
+  color: #fff;
+}
+
+.bg_dark .s_descr::after {
+  background-color: #fff;
+}
+
+.bg_dark a {
+  color: #fff;
+}
+
+a {
+  color: #7300AB;
+}
+
+p,
+.main_footer,
+.s_about .section_content li {
+  color: #888;
+}
+
+.color_element {
+  color: #7300AB;
+}
+
+.color_bg {
+  background-color: #7300AB;
+}
+
+.color_border {
+  border-color: #7300AB;
+}
+
+.toggle_mnu {
+  background-color: #222;
+}
+
+.top_mnu a:hover {
+  color: #7300AB;
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+.top_mnu a {
+  letter-spacing: 4px;
+}
+
+.top_text p {
+  color: #FAFAFA;
+  letter-spacing: 5px;
+}
+
+.s_descr {
+  letter-spacing: 5px;
+}
+
+.s_descr::after {
+  background-color: #222;
+}
+
+.main_footer {
+  letter-spacing: 0px;
+}
+
+.s_about p:nth-child(even) {
+  color: #7300AB;
+}
+
+.resume_container h3 {
+  color: #222;
+  letter-spacing: 1px;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.resume_icon {
+  font-size: 40px;
+  margin-bottom: 35px;
+}
+
+.resume_container .resume_item .year {
+  background-color: #7300AB;
+}
+
+.s_portfolio li {
+  letter-spacing: 2px;
+  color: #888;
+}
+
+.s_portfolio li.active {
+  color: #fff;
+  border-bottom: 1px solid #7300AB;
+}
+
+#portfolio_grid .portfolio_item .port_item_cont a {
+  border-color: #7300AB;
+  color: #7300AB;
+}
+
+.s_contacts .contact_box i {
+  color: #7300AB;
+}
+
+.text-danger {
+  color: #7300AB;
+}
+
+form input:focus,
+form textarea:focus {
+  border: 1px solid #7300AB !important;
+}
+
+form button {
+  background-color: #7300AB;
+  letter-spacing: 2px;
+}
+
+form .form-group {
+  letter-spacing: 2px;
+  color: #888;
+}
+
+form .text-danger {
+  color: #7300AB;
+}
